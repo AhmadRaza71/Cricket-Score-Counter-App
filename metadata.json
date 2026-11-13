@@ -1,0 +1,6 @@
+{
+  "name": "Gali Cricket",
+  "description": "Offline street cricket scoring and match management with custom street rules, pitch boundary canvas, and live scorecard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
